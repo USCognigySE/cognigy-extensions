@@ -1,0 +1,26 @@
+{
+  "name": "okta-auth-extension",
+  "version": "1.2.0",
+  "description": "Okta OAuth2 integration for Cognigy.AI with robust token management",
+  "main": "dist/module.js",
+  "author": "Cognigy GmbH",
+  "keywords": [
+    "Okta",
+    "OAuth2",
+    "Authentication",
+    "Identity",
+    "SSO",
+    "Token Management"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "@cognigy/extension-tools": "^0.16.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "@types/node": "^20.11.17"
+  }
+}

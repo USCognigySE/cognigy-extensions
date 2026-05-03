@@ -1,0 +1,1 @@
+{"version":3,"file":"freshdeskAPIKeyConnection.js","sourceRoot":"","sources":["../../src/connections/freshdeskAPIKeyConnection.ts"],"names":[],"mappings":";;;AAEa,QAAA,yBAAyB,GAAsB;IAC3D,IAAI,EAAE,kBAAkB;IACxB,KAAK,EAAE,mBAAmB;IAC1B,MAAM,EAAE;QACP,EAAE,SAAS,EAAE,KAAK,EAAE;QACpB,EAAE,SAAS,EAAE,WAAW,EAAC;KACzB;CACD,CAAC"}

@@ -1,0 +1,13 @@
+node_modules/
+*.log
+.DS_Store
+.env
+.env.local
+.env.*.local
+Thumbs.db
+
+# Customer-specific POCs (do not publish)
+JWT Extension - Guitar Center/
+
+# NICE-internal compiled packages (do not publish)
+NiCE Extensions/
