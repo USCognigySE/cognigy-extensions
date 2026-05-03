@@ -9,7 +9,7 @@ This repository is **not an official Cognigy product** — it is a personal coll
 | Extension | What it does |
 |---|---|
 | [Hubspot](./Hubspot/) | HubSpot CRM integration — contacts, companies, deals, engagements, and entity search via the official `@hubspot/api-client`. Comprehensive: 570-line README, 4.2.0. |
-| [OKTA](./OKTA/V1.2.0%20-%20Current/) | OAuth2 Client Credentials token retrieval against Okta, with cross-session token caching designed for REST-endpoint token-service patterns. |
+| [OKTA](./OKTA/) | OAuth2 Client Credentials token retrieval against Okta, with cross-session token caching designed for REST-endpoint token-service patterns. |
 | [Salesforce](./Salesforce/) | Salesforce integration via [jsforce](https://jsforce.github.io/) — Cases, Contacts, generic SOQL query, and arbitrary entity CRUD. OAuth2 connection. Replaces the deprecated "Salesforce CRM" extension. |
 | [freshdesk](./freshdesk/) | Freshdesk ticketing — Create / Get / Update / Filter / Reply, plus Solutions article search and retrieval. Includes an `additionalFields` JSON pass-through on Create Ticket for tenants with strict required-field rules (type, group, custom fields). |
 | [service-now-OAuth2](./service-now-OAuth2/) | ServiceNow integration over OAuth 2.0 (Password Grant) — Incidents, Service Catalog, Knowledge, Email. Replaces HTTP Basic auth from the upstream extension. |
