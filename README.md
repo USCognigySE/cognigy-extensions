@@ -2,7 +2,7 @@
 
 A collection of community-contributed [Cognigy.AI](https://www.cognigy.com/product/) Extensions — JavaScript modules exposed as [Flow Nodes](https://docs.cognigy.com/ai/build/node-reference/overview/) that integrate Cognigy.AI with third-party systems.
 
-This repository is **not an official Cognigy product** — it is a personal collection of Extensions built for customer POCs and demos by an NA Professional Services SE. Where an Extension overlaps in name with one in the official [Cognigy/Extensions](https://github.com/Cognigy/Extensions) repo, it is a fork with modifications (additional fields, alternate auth, bug fixes). Use the official repo as your default; reach for these when you need a specific behavior that the official version doesn't cover.
+This repository is **not an official Cognigy product** — it is a personal collection of Extensions built for customer POCs and demos by a Cognigy Presales Solutions Engineer. Where an Extension overlaps in name with one in the official [Cognigy/Extensions](https://github.com/Cognigy/Extensions) repo, it is a fork with modifications (additional fields, alternate auth, bug fixes). Use the official repo as your default; reach for these when you need a specific behavior that the official version doesn't cover.
 
 ## Contents
 
