@@ -51,9 +51,11 @@ Each folder has an `icon.png` (64×64) used as the node icon in Cognigy.AI; repl
 | service-now-OAuth2 | Fork of [Cognigy/Extensions/extensions/service-now](https://github.com/Cognigy/Extensions/tree/master/extensions/service-now) — switched from Basic to OAuth2 Password Grant |
 | service-now-partial-match | Variant of service-now-OAuth2 with partial-match lookup |
 
-## Contributing back upstream
+## Contributing
 
-If a change here would benefit the wider Cognigy community, the official path is to PR it against [Cognigy/Extensions](https://github.com/Cognigy/Extensions). See the [approval process](https://github.com/Cognigy/Extensions#approval-process) in their README.
+PRs are welcome. The workflow (fork → branch → PR), folder structure, README requirements, and code conventions are all documented in **[CONTRIBUTING.md](./CONTRIBUTING.md)**. A PR template is provided to walk through the checklist on submission.
+
+If a change here would also benefit the wider Cognigy community, consider opening a parallel PR against [Cognigy/Extensions](https://github.com/Cognigy/Extensions) — see their [approval process](https://github.com/Cognigy/Extensions#approval-process).
 
 ## License
 
